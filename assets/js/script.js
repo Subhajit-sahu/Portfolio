@@ -50,7 +50,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Suraj singh";
+            document.title = "Portfolio | Subhajit Sahu";
             $("#favicon").attr("href", "assets/images/Screenshot 2024-02-08 192059.png");
         }
         else {
